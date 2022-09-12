@@ -22,6 +22,7 @@ Skapa en **max** 10 minuters presentation där ni argumenterar för varför moln
 - https://www.youtube.com/watch?v=J4yCQNmt5ZY
 - https://www.redhat.com/en/topics/virtualization/what-is-virtualization
 
+Innehållet presenteras på torsdag 15/09.
 
 
 
