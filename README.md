@@ -9,8 +9,8 @@ Skapa en **max** 10 minuters presentation där ni argumenterar för varför moln
 4. Vilka är det större leverantörerna inom molntjänster?
 5. Vad skiljer leverantörerna åt?
 6. Ge förslag på en tjänst som passar bättre
-  1. lokalt
-  2. i molnet
+   1. lokalt
+   2. i molnet
 7. Sammanfatta och ge slutats till varför molnutveckling är viktigt i dagens utvecklingsprocesser
 
 
